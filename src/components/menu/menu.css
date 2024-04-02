@@ -1,0 +1,1 @@
+.menu .item{margin-bottom:20px;display:flex;flex-direction:column;gap:10px}.menu .item .title{font-size:12px;font-weight:200;color:#ddd}.menu .item .listItem{padding:10px;display:flex;align-items:center;gap:10px;border-radius:5pxs}.menu .item .listItem:hover{background-color:#38425b}
